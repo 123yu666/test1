@@ -1,0 +1,9 @@
+使用git init命令初始化本地仓库
+使用git config --global user.name "姓名"设置用户名
+使用git config --global user.email "邮箱名"设置邮箱
+使用git --list命令查看姓名和邮箱是否设置成功
+使用touch 文件名命令创建文件
+使用vi 文件名命令编辑文件
+使用i命令插入内容
+使用esc+:wq命令退出
+使用cat 文件名命令查看文件
