@@ -9,3 +9,7 @@
 使用cat 文件名命令查看文件
 使用git add 文件名将文件提交到暂存区
 使用git commit -m "注释内容" 将文件提交到本地仓库
+暂存区文件提交和撤销
+提交到暂存区:git add 文件名
+撤销：git reset HEAD 
+git diff HEAD -- 文件名 与版本库内容进行比较
